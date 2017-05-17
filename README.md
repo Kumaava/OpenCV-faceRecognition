@@ -22,5 +22,15 @@ So now inside this function we are going to do the following
 Load the training images from dataset folder
 capture the faces and Id from the training images
 Put them In a List of Ids and FaceSamples  and return it
+<img width="1098" alt="yml file" src="https://cloud.githubusercontent.com/assets/11708565/26137061/4c3dcf1e-3add-11e7-91f8-acd6cfec26b8.png">
 
 ### Detector
+Loading Recognizer
+Lets start the main loop and do the following basic steps
+Starts capturing frames from the camera object
+Convert it to Gray Scale
+Detect and extract faces from the images
+Use the recognizer to recognize the Id of the user
+Put predicted Id/Name and Rectangle on detected face
+
+
