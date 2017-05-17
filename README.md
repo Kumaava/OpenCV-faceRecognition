@@ -32,5 +32,8 @@ Convert it to Gray Scale
 Detect and extract faces from the images
 Use the recognizer to recognize the Id of the user
 Put predicted Id/Name and Rectangle on detected face
+<img width="1280" alt="final_detector" src="https://cloud.githubusercontent.com/assets/11708565/26137163/0745d8a6-3ade-11e7-8cc7-a5fc45072d42.png">
 
+
+# @subpart of a project
 
